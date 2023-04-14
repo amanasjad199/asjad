@@ -1,0 +1,29 @@
+.left{
+    display: inline-block;
+    margin-left: 70px;
+    margin-top: 2px;
+}
+.right{
+    display: inline-block;
+    margin-left: 70%;
+    margin-bottom: 70px;
+    
+}
+
+.li1{
+    display: inline;
+    padding-bottom: 50px;
+}
+.li2{
+    display: inline;
+    padding-bottom: 50px;
+}
+.header{
+    border: 5px solid grey;
+}
+.image{
+    height: 50px;
+    width: 50px;
+}
+
+
